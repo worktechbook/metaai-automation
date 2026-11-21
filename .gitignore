@@ -1,0 +1,6 @@
+output/
+*.xlsx
+*progress*.txt
+*log*.txt
+metaai_ui.xml
+.env
